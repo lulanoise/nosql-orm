@@ -1,0 +1,6 @@
+com/develhope/nosqlorm/config/mongodbConfig.class
+com/develhope/nosqlorm/entities/User.class
+com/develhope/nosqlorm/repositories/UserRepository.class
+com/develhope/nosqlorm/controllers/UserController.class
+com/develhope/nosqlorm/services/UserService.class
+com/develhope/nosqlorm/nosqlormApplication.class
